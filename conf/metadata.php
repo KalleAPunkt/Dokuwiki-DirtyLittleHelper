@@ -24,7 +24,7 @@ $meta['edit_tb_drawio'] = array('onoff');
 $meta['edit_tb_dlhid'] = array('onoff');
 
 $meta['top_active'] = array('onoff');
-$meta['top_templates'] = '';
+$meta['top_templates'] = array('');
 $meta['top_helper_wikiid'] = array('string');
 $meta['top_struct_wikiid'] = array('string');
 $meta['top_pagesuggest'] = array('onoff');
